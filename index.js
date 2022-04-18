@@ -1,5 +1,7 @@
-import express from "express";
-import { exec } from "child_process";
+//import express from "express";
+//import { exec } from "child_process";
+const express = require("express");
+const { exec } = require("child_process");
 
 const PORT = 4200;
 

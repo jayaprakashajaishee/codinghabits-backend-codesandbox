@@ -13,3 +13,4 @@ console.log(Sum(1, 5));
 //console.log(Sum(a,b))
 
 module.exports = Sum;
+//export default Sum;
